@@ -1,4 +1,4 @@
 [submodule "project-automation"]
 	path = project-automation
 	url = ../project-automation
-	branch = master
+	branch = main
