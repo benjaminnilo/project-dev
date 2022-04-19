@@ -1,4 +1,4 @@
 [submodule "project-automation"]
 	path = project-automation
 	url = https://github.com/benjaminnilo/project-automation.git
-	branch = main
+	branch = master
